@@ -1,0 +1,280 @@
+[
+  {
+    "name": "F66",
+    "start": {
+      "latitude": 65.64536,
+      "longitude": -22.54291
+    },
+    "end": {
+      "latitude": 65.82515,
+      "longitude": -22.43822
+    },
+    "length": 20.56
+  },
+  {
+    "name": "Highland Long Dirt track",
+    "start": {
+      "latitude": 64.68776,
+      "longitude": -19.29826
+    },
+    "end": {
+      "latitude": 64.18566,
+      "longitude": -19.58889
+    },
+    "length": 57.55
+  },
+  {
+    "name": "Bláhylur",
+    "point": {
+      "latitude": 64.050834,
+      "longitude": -19.044179
+    }
+  },
+  {
+    "name": "Krakatindsleið track",
+    "start": {
+      "latitude": 64.02555,
+      "longitude": -19.59117
+    },
+    "end": {
+      "latitude": 64.03896,
+      "longitude": -19.34171
+    },
+    "length": 12.24
+  },
+  {
+    "name": "Vikraborgir Car Park",
+    "point": {
+      "latitude": 65.067128,
+      "longitude": -16.724925
+    }
+  },
+  {
+    "name": "F26",
+    "start": {
+      "latitude": 64.59979,
+      "longitude": -18.38182
+    },
+    "end": {
+      "latitude": 65.01552,
+      "longitude": -17.92758
+    },
+    "length": 50.98
+  },
+  {
+    "name": "F88",
+    "start": {
+      "latitude": 65.62587,
+      "longitude": -16.25054
+    },
+    "end": {
+      "latitude": 65.07292,
+      "longitude": -16.37738
+    },
+    "length": 61.77
+  },
+  {
+    "name": "Vatnsdalshólar View Point",
+    "point": {
+      "latitude": 65.489266,
+      "longitude": -20.358873
+    }
+  },
+  {
+    "name": "Fagradalsfjall Volcano Hike - Private Tour",
+    "point": {
+      "latitude": 63.86609,
+      "longitude": -22.316913
+    }
+  },
+  {
+    "name": "Dynjandi",
+    "point": {
+      "latitude": 65.736489,
+      "longitude": -23.209058
+    }
+  },
+  {
+    "name": "Hraunfossar",
+    "point": {
+      "latitude": 64.701652,
+      "longitude": -20.978745
+    }
+  },
+  {
+    "name": "Gullfoss Waterfall Lookout",
+    "point": {
+      "latitude": 64.32493,
+      "longitude": -20.125451
+    }
+  },
+  {
+    "name": "Geysir Hot Springs",
+    "point": {
+      "latitude": 64.30901,
+      "longitude": -20.303416
+    }
+  },
+  {
+    "name": "Hlauptungufoss",
+    "point": {
+      "latitude": 64.240152,
+      "longitude": -20.524064
+    }
+  },
+  {
+    "name": "Brúarfoss",
+    "point": {
+      "latitude": 64.26222,
+      "longitude": -20.52132
+    }
+  },
+  {
+    "name": "Hveradalir",
+    "point": {
+      "latitude": 64.646366,
+      "longitude": -19.278499
+    }
+  },
+  {
+    "name": "Viewpoint from Hverfjall volcano",
+    "point": {
+      "latitude": 65.613067,
+      "longitude": -16.876185
+    }
+  },
+  {
+    "name": "Aldeyjarfoss",
+    "point": {
+      "latitude": 65.364384,
+      "longitude": -17.341477
+    }
+  },
+  {
+    "name": "Goðafoss Waterfall",
+    "point": {
+      "latitude": 65.683821,
+      "longitude": -17.540798
+    }
+  },
+  {
+    "name": "Nice View",
+    "point": {
+      "latitude": 65.494689,
+      "longitude": -17.448823
+    }
+  },
+  {
+    "name": "Seydisfjordur",
+    "point": {
+      "latitude": 65.260231,
+      "longitude": -14.009547
+    }
+  },
+  {
+    "name": "Ásbyrgi canyon",
+    "point": {
+      "latitude": 65.997621,
+      "longitude": -16.513672
+    }
+  },
+  {
+    "name": "Dettifoss",
+    "point": {
+      "latitude": 65.81131,
+      "longitude": -16.400426
+    }
+  },
+  {
+    "name": "Stuðlagil",
+    "point": {
+      "latitude": 65.163381,
+      "longitude": -15.309803
+    }
+  },
+  {
+    "name": "Jökulsárlón",
+    "point": {
+      "latitude": 64.052123,
+      "longitude": -16.178009
+    }
+  },
+  {
+    "name": "Fjarðarárgljúfur Viewpoint",
+    "point": {
+      "latitude": 63.779473,
+      "longitude": -18.168498
+    }
+  },
+  {
+    "name": "Hálsanefshellir Cave",
+    "point": {
+      "latitude": 63.404246,
+      "longitude": -19.044997
+    }
+  },
+  {
+    "name": "Kvernufoss",
+    "point": {
+      "latitude": 63.526094,
+      "longitude": -19.494115
+    }
+  },
+  {
+    "name": "Bolungarvik Coast road",
+    "start": {
+      "latitude": 66.14743,
+      "longitude": -23.22277
+    },
+    "end": {
+      "latitude": 66.11386,
+      "longitude": -23.12094
+    },
+    "length": 5.91
+  },
+  {
+    "name": "Bulldozer Road",
+    "start": {
+      "latitude": 65.76023,
+      "longitude": -23.46695
+    },
+    "end": {
+      "latitude": 65.855037,
+      "longitude": -23.471798
+    },
+    "length": 10.54
+  },
+  {
+    "name": "F899",
+    "start": {
+      "latitude": 65.85981,
+      "longitude": -17.89697
+    },
+    "end": {
+      "latitude": 66.13728,
+      "longitude": -17.91042
+    },
+    "length": 30.86
+  },
+  {
+    "name": "Reykjavík",
+    "point": {
+      "latitude": 64.146987,
+      "longitude": -21.940755
+    }
+  },
+  {
+    "name": "Sandafell Mountain",
+    "point": {
+      "latitude": 65.8726,
+      "longitude": -23.506056
+    }
+  },
+  {
+    "name": "Botnstjörn",
+    "point": {
+      "latitude": 65.998531,
+      "longitude": -16.51358
+    }
+  }
+]
