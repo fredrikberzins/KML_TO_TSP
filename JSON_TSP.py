@@ -27,10 +27,10 @@ def calculate_distance(route, distance_matrix, locations, shortest_distance):
     return total_distance
 
 
-def tsp_brute_force(distance_matrix, locations, output_file):
+def tsp_brute_force(distance_matrix, locations, output_file, max_distance):
     num_locations = len(distance_matrix)
     all_routes = itertools.permutations(range(num_locations))
-    shortest_distance = float('inf')
+    shortest_distance = max_distance
     best_route = None
 
     for route in all_routes:
@@ -111,12 +111,12 @@ def main():
     import sys
 
     if len(sys.argv) != 3 and len(sys.argv) != 4:
-        print("Usage: python JSON_TSP.py <input.json> <output.json> [start point name]")
+        print("Usage: python JSON_TSP.py <input.json> <output.json> [max distance(int)]")
         return
-
+    max_distance = 0
     input_file = sys.argv[1]
     output_file = sys.argv[2]
-    start_point = sys.argv[3]
+    max_distance = int(sys.argv[3])
 
     with open(input_file, "r", encoding="utf-8") as file:
         data = json.load(file)
@@ -126,7 +126,7 @@ def main():
     print("Distance Matrix:")
     for row in distance_matrix:
         print(row)
-    best_route, shortest_distance = tsp_brute_force(distance_matrix, locations, output_file)
+    best_route, shortest_distance = tsp_brute_force(distance_matrix, locations, output_file, max_distance)
 
     print("Final Shortest Route:", format_route(best_route, locations))
     print("Final Shortest Distance:", shortest_distance)
